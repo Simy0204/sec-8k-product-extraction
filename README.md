@@ -18,7 +18,7 @@ company_name, stock_name, filing_time, new_product, product_description
 | NER | spaCy `en_core_web_sm` ORG/PRODUCT entities + rule-based product pattern; top sentences become the LLM passage, entities become hints |
 | LLM | Ollama `/api/chat`, temperature 0, JSON-schema output: `product_name`, `description`, `evidence` |
 | Validation | Product name must appear in the filing, generic names dropped, duplicates merged, description < 180 chars |
-| Output | `output/new_products.csv`, `output/extraction_audit.csv`, `output/new_products_table.txt` |
+| Output | `output/new_products.csv` (products only), `output/all_filings.csv` (every filing), `output/extraction_audit.csv`, `output/new_products_table.txt` |
 
 ## Quick start
 
@@ -45,5 +45,6 @@ pytest -q        # offline: SEC and the LLM are mocked
 
 - `extract_8k_products.py` – pipeline module and CLI
 - `8k_product_extraction.ipynb` – notebook driver with NER demo, run, metrics, manual-review sample
+- `make_all_filings_csv.py` – builds `output/all_filings.csv`: one row per filing analysed (`None` when no new product)
 - `tests/test_pipeline.py` – offline unit and end-to-end tests
 - `output/` – CSV results (committed after the run)

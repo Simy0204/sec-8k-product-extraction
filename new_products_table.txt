@@ -1,0 +1,31 @@
+Company Name           | Stock Name | Filing Time | New Product                                                   | Product Description
+--------------------------------------------------------------------------------------------------------------------------------------------
+Abbott Laboratories    | ABT        | 2026-10-21  | Ensure                                                        | World’s No. 1 adult nutrition supplement drink
+Abbott Laboratories    | ABT        | 2026-10-21  | Pedialyte                                                     | Pediatric hydration drink
+Abbott Laboratories    | ABT        | 2026-10-21  | High-protein Ensure shake                                     | High-protein Ensure shake with 42 grams of protein
+Abbott Laboratories    | ABT        | 2026-10-21  | Dye-free Pedialyte products                                   | Dye-free Pedialyte products
+Aflac                  | AFL        | 2026-08-06  | Anshin Palette, the new medical insurance product             | Aflac reports strong growth in Anshin Palette medical insurance product
+Aflac                  | AFL        | 2026-04-29  | Anshin Palette                                                | new medical insurance product launched in December
+Aflac                  | AFL        | 2026-04-29  | Miraito                                                       | newest cancer insurance product
+Aflac                  | AFL        | 2026-02-04  | Anshin Palette                                                | Aflac launched Anshin Palette medical policy in December 2025.
+Aflac                  | AFL        | 2025-11-04  | Miraito                                                       | Aflac's cancer insurance product launched in March.
+Advanced Micro Devices | AMD        | 2026-08-04  | AMD Helios rackscale solution                                 | World's most powerful AI server rack
+Advanced Micro Devices | AMD        | 2026-08-04  | AMD Instinct MI400 Series GPU family                          | Leadership compute, memory capacity and bandwidth for AI training and inference
+Advanced Micro Devices | AMD        | 2026-08-04  | 6th Gen AMD EPYC server CPUs                                  | Leadership performance across various workloads
+Advanced Micro Devices | AMD        | 2026-08-04  | AMD Instinct MI350P GPU                                       | Seamless AI acceleration to existing infrastructure
+Advanced Micro Devices | AMD        | 2026-08-04  | AMD Ryzen 7700X3D processors                                  | Extended support for Socket AM5 platforms
+Advanced Micro Devices | AMD        | 2026-08-04  | AMD Ryzen AI Embedded X100 Series processors                  | Embedded x86 processors integrating CPU, GPU and AI acceleration
+Advanced Micro Devices | AMD        | 2026-05-05  | Ryzen 9950X3D2 Dual Edition                                   | Processors with dual stacks of 3D V-Cache for creative and developer workloads
+Advanced Micro Devices | AMD        | 2026-05-05  | Ryzen AI Embedded P100 Series                                 | AI processors for industrial and edge applications
+Advanced Micro Devices | AMD        | 2026-02-03  | AMD Instinct MI440X GPU                                       | GPU for enterprise AI
+Advanced Micro Devices | AMD        | 2025-11-04  | AMD Ryzen Threadripper 9000WX and PRO 9000X Series processors | AMD launched Ryzen Threadripper 9000WX and PRO 9000X Series processors for creators, enthusiasts, and professionals.
+Amazon                 | AMZN       | 2026-04-14  | Satellite services for iPhone and Apple Watch                 | Amazon's satellite network will power satellite features on Apple devices
+Amazon                 | AMZN       | 2026-04-09  | Amazon Leo                                                    | Amazon Leo chosen by Delta Airlines for future Wi-Fi
+Amazon                 | AMZN       | 2026-04-09  | Amazon Now                                                    | Ultra-fast delivery service with 20-minute delivery
+Amazon                 | AMZN       | 2026-04-09  | Amazon Fresh                                                  | Mainstream physical grocery stores with grocery subscriptions
+Amazon                 | AMZN       | 2026-04-09  | Trainium                                                      | Custom silicon for inference service
+Amazon                 | AMZN       | 2026-04-09  | AgentCore                                                     | Scalable and secure agent environments
+Amazon                 | AMZN       | 2026-04-09  | Strands                                                       | Agent-building service
+Amazon                 | AMZN       | 2026-02-27  | Stateful Runtime Environment                                  | Stateful Runtime Environment powered by OpenAI models, available on Amazon Bedrock.
+Amazon                 | AMZN       | 2026-02-27  | Customized models                                             | Customized models for Amazon’s customer-facing applications
+Aptiv                  | APTV       | 2025-11-18  | Battery Disconnect Unit (BDU)                                 | Battery Disconnect Unit (BDU)
